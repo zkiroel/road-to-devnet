@@ -10,7 +10,7 @@
 ## Books:
 - [x] Python для сетевых инженеров // https://pyneng.readthedocs.io/ru/latest/
 - [ ] Python Distilled https://www.oreilly.com/library/view/python-distilled/9780134173399/
-- [ ] Fluent **Python** v2 (second edition) // https://www.oreilly.com/library/view/fluent-python-2nd/9781492056348/
+- [ ] Fluent Python v2 (second edition) // https://www.oreilly.com/library/view/fluent-python-2nd/9781492056348/
 - [ ] Python Cookbook // https://www.oreilly.com/library/view/python-cookbook-3rd/9781449357337/
 - [ ] Effective Python v2 // https://www.oreilly.com/library/view/effective-python-90/9780134854717/
 - [ ] Python Concurrency with asyncio // https://www.oreilly.com/library/view/python-concurrency-with/9781617298660/
