@@ -31,16 +31,16 @@
 - [ ] Курс Advanced (https://advpyneng.readthedocs.io/ru/latest/)
 - [ ] Лекции (https://www.youtube.com/c/PyNEng/playlists)
 - [ ] REST FULL API
-    - [ ] FastAPI;
-    - [ ] realpython:
-    	- [ ] https://fastapi.tiangolo.com/tutorial/;
-	    - [ ] https://realpython.com/courses/python-rest-apis-with-fastapi/;
-	    - [ ] https://realpython.com/courses/url-shortener-fastapi/;
-    	- [ ] https://realpython.com/search?q=fastapi;
-	- [ ] talkpython;
-			- [ ] https://training.talkpython.fm/courses/getting-started-with-fastapi;
-			- [ ] https://training.talkpython.fm/courses/full-html-web-applications-with-fastapi;
-			- [ ] https://training.talkpython.fm/courses/secure-apis-with-fastapi-and-the-microsoft-identity-platform;
+    - [ ] FastAPI:
+    	- [ ] realpython:
+    		- [ ] https://fastapi.tiangolo.com/tutorial/;
+	    	- [ ] https://realpython.com/courses/python-rest-apis-with-fastapi/;
+	    	- [ ] https://realpython.com/courses/url-shortener-fastapi/;
+    		- [ ] https://realpython.com/search?q=fastapi;
+	- [ ] talkpython:
+		- [ ] https://training.talkpython.fm/courses/getting-started-with-fastapi;
+		- [ ] https://training.talkpython.fm/courses/full-html-web-applications-with-fastapi;
+		- [ ] https://training.talkpython.fm/courses/secure-apis-with-fastapi-and-the-microsoft-identity-platform;
     - [ ] Swagger.
 - [ ] Web:
     - [ ] Синхронный фреймворк:
