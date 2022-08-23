@@ -4,13 +4,13 @@
 Попытка собрать ROADMAP для изучения DEVNET
 Материалы из канала https://t.me/automate_devnet, автора https://t.me/pyneng и ученика этого же канала, а именно от товарищей:
 - Natasha Samoylenko - автор книги https://pyneng.readthedocs.io/ru/latest/
-- Dmitry Figol- https://pl.linkedin.com/in/dmfigol, активный участник https://t.me/automate_devnet
+- Dmitry Figol - https://pl.linkedin.com/in/dmfigol, активный участник https://t.me/automate_devnet
 - Aleksey Starovoitov (чат слак pyneng)
 
 ## Books:
 - [ ] Python для сетевых инженеров // https://pyneng.readthedocs.io/ru/latest/
 - [ ] Python Distilled https://www.oreilly.com/library/view/python-distilled/9780134173399/
-- [ ] Fluent **Python** v2 (second edition) // https://www.oreilly.com/library/view/fluent-python-2nd/9781492056348/
+- [ ] Fluent Python v2 (second edition) // https://www.oreilly.com/library/view/fluent-python-2nd/9781492056348/
 - [ ] Python Cookbook // https://www.oreilly.com/library/view/python-cookbook-3rd/9781449357337/
 - [ ] Effective Python v2 // https://www.oreilly.com/library/view/effective-python-90/9780134854717/
 - [ ] Python Concurrency with asyncio // https://www.oreilly.com/library/view/python-concurrency-with/9781617298660/
@@ -31,16 +31,16 @@
 - [ ] Курс Advanced (https://advpyneng.readthedocs.io/ru/latest/)
 - [ ] Лекции (https://www.youtube.com/c/PyNEng/playlists)
 - [ ] REST FULL API
-    - [ ] FastAPI;
-    - [ ] realpython:
-    	- [ ] https://fastapi.tiangolo.com/tutorial/;
-	    - [ ] https://realpython.com/courses/python-rest-apis-with-fastapi/;
-	    - [ ] https://realpython.com/courses/url-shortener-fastapi/;
-    	- [ ] https://realpython.com/search?q=fastapi;
-	- [ ] talkpython;
-			- [ ] https://training.talkpython.fm/courses/getting-started-with-fastapi;
-			- [ ] https://training.talkpython.fm/courses/full-html-web-applications-with-fastapi;
-			- [ ] https://training.talkpython.fm/courses/secure-apis-with-fastapi-and-the-microsoft-identity-platform;
+    - [ ] FastAPI:
+    	- [ ] realpython:
+    		- [ ] https://fastapi.tiangolo.com/tutorial/;
+	    	- [ ] https://realpython.com/courses/python-rest-apis-with-fastapi/;
+	    	- [ ] https://realpython.com/courses/url-shortener-fastapi/;
+    		- [ ] https://realpython.com/search?q=fastapi;
+	- [ ] talkpython:
+		- [ ] https://training.talkpython.fm/courses/getting-started-with-fastapi;
+		- [ ] https://training.talkpython.fm/courses/full-html-web-applications-with-fastapi;
+		- [ ] https://training.talkpython.fm/courses/secure-apis-with-fastapi-and-the-microsoft-identity-platform;
     - [ ] Swagger.
 - [ ] Web:
     - [ ] Синхронный фреймворк:
