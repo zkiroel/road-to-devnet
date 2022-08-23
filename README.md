@@ -4,7 +4,7 @@
 Попытка собрать ROADMAP для изучения DEVNET
 Материалы из канала https://t.me/automate_devnet, автора https://t.me/pyneng и ученика этого же канала, а именно от товарищей:
 - Natasha Samoylenko - автор книги https://pyneng.readthedocs.io/ru/latest/
-- Dmitry Figol- https://pl.linkedin.com/in/dmfigol, активный участник https://t.me/automate_devnet
+- Dmitry Figol - https://pl.linkedin.com/in/dmfigol, активный участник https://t.me/automate_devnet
 - Aleksey Starovoitov (чат слак pyneng)
 
 ## Books:
