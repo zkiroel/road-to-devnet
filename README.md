@@ -8,7 +8,7 @@
 - Aleksey Starovoitov (чат слак pyneng)
 
 ## Books:
-- [x] Python для сетевых инженеров // https://pyneng.readthedocs.io/ru/latest/
+- [ ] Python для сетевых инженеров // https://pyneng.readthedocs.io/ru/latest/
 - [ ] Python Distilled https://www.oreilly.com/library/view/python-distilled/9780134173399/
 - [ ] Fluent Python v2 (second edition) // https://www.oreilly.com/library/view/fluent-python-2nd/9781492056348/
 - [ ] Python Cookbook // https://www.oreilly.com/library/view/python-cookbook-3rd/9781449357337/
@@ -18,7 +18,7 @@
 
 ## List
 - [ ] Python:
-	- [x] Книга https://pyneng.readthedocs.io/ru/latest/ и упражнения, сопровождающие лекции (https://www.youtube.com/playlist?list=PLah0HUih_ZRljCWNZp2N-YBVkgxiJZWEY);
+	- [ ] Книга https://pyneng.readthedocs.io/ru/latest/ и упражнения, сопровождающие лекции (https://www.youtube.com/playlist?list=PLah0HUih_ZRljCWNZp2N-YBVkgxiJZWEY);
 	- [ ] Классы;
 	- [ ] Декораторы;
 	- [ ] Итераторы;
