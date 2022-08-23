@@ -52,7 +52,6 @@
     - [ ] Асинхронный фреймворк:
         - [ ] aiohttp.
     - [ ] JS (базовые знания).
-    	- [ ] https://shultais.education/lms/courses/javascript
 - [ ] Базы данных:
 	- [ ] SQL/noSQL - где какие нужны.
 - [ ] PostgreSQL:
